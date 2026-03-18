@@ -7,7 +7,7 @@
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="Languages/zh.xaml"/>
+                <ResourceDictionary Source="Languages/en.xaml"/>
             </ResourceDictionary.MergedDictionaries>
 
             <CornerRadius x:Key="ButtonCornerRadius">4</CornerRadius>
