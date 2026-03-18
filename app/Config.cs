@@ -11,7 +11,7 @@ namespace ParsecVDisplay
 
         public static string Language
         {
-            get => GetString(nameof(Language), "简体中文");
+            get => GetString(nameof(Language), "English");
             set => SetString(nameof(Language), value);
         }
 
