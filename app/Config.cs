@@ -50,7 +50,7 @@ namespace ParsecVDisplay
 
         public static int MirroringFPS
         {
-            get => GetInt(nameof(MirroringFPS), 30);
+            get => GetInt(nameof(MirroringFPS), 60);
             set => SetInt(nameof(MirroringFPS), value);
         }
 
